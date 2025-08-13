@@ -3,8 +3,7 @@
 # JulianoRS
 Sou estudante de Ciência da computação na Cruzeiro do Sul Virtual
 (início previsto: Agosto de 2025.), tenho bastante interesse na área de tecnologia.
-Desenvolvo projetos que ajudem a população e estou realizando um projeto de apoio a pessoas com 
-autismo para um melhor atendimento em sistemasde saúde.
+Iniciando minha carreira ma área de tecnologia visando evolução profissional contínua.
 
 
 ##conhecimentos
