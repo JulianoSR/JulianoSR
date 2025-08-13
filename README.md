@@ -1,16 +1,14 @@
 ## Bem vindo ao meu Perfil 👋
 
-<!--
-**JulianoSR/JulianoSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JulianoRS
+Me chamo Juliano Santana Rocha , sou estudante de Ciência da computação na Cruzeiro do Sul Virtual
+(início previsto: Agosto de 2025.), tenho bastante interesse na área de tecnologia.
+Desenvolvo projetos que ajudem a população e estou realizando um projeto de apoio a pessoas com 
+autismo para um melhor atendimento em sistemasde saúde.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##conhecimentos
+
+. HTML (básico)
+. CSS (básico)
+. JavaScript (básico)
