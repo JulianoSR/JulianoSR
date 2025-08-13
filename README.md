@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Perfil 👋
 
-# JulianoRS
+# Juliano Santana Rocha
 Sou estudante de Ciência da computação na Cruzeiro do Sul Virtual
 (início previsto: Agosto de 2025.), tenho bastante interesse na área de tecnologia.
 Iniciando minha carreira na área de tecnologia visando evolução profissional contínua.
