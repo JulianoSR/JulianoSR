@@ -6,7 +6,7 @@ Sou estudante de Ciência da computação na Cruzeiro do Sul Virtual
 Iniciando minha carreira na área de tecnologia visando evolução profissional contínua.
 
 
-##conhecimentos
+# conhecimentos
 
 . HTML (básico)
 
